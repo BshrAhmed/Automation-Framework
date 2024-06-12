@@ -15,7 +15,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.0.0</version>
                 <configuration>
-                    <!-- Custom configuration options -->
+
                 </configuration>
             </plugin>
         </plugins>
